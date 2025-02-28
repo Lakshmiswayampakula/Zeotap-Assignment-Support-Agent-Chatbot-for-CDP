@@ -1,0 +1,10 @@
+agno
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-chroma>=0.1.2
+tavily-python
+dotenv-python
+streamlit
+requests
